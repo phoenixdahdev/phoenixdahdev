@@ -12,4 +12,4 @@
 
 🔗 I'm always eager to connect and collaborate! Feel free to explore my repositories, where you'll find a mix of personal projects, cybersecurity endeavors, and perhaps a few whimsical coding experiments. Don't hesitate to reach out—I'm enthusiastic about exploring possibilities, sharing knowledge, and collectively elevating the digital realm.
 
-📫 You can drop me a line at ayomikuntemitope.araoye@gmail.com, and for the latest updates and discussions, connect with me on Twitter!
+📫 You can drop me a line at ayomikuntemitope.araoye@gmail.com, and for the latest updates and discussions!.
