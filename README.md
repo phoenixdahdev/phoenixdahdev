@@ -14,4 +14,4 @@
 
 📫 You can drop me a line at ayomikuntemitope.araoye@gmail.com, and for the latest updates and discussions!.
 
-[![GitHub Streak](https://streak-stats.demolab.com/incredible-phoenix246=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/incredible-phoenix246)](https://git.io/streak-stats)
