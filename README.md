@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Phoniex</h1>
-<h3 align="left">A passionate web developer, cybersecurity enthusiast, and networking aficionado with a burning desire to innovate and secure the digital landscape.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=incredible-phoenix246&label=Profile%20views&color=0e75b6&style=flat" alt="incredible-phoenix246" /> </p>
 <p>🌐 A passionate web developer, cybersecurity enthusiast, and networking aficionado with a burning desire to innovate and secure the digital landscape.
