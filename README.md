@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **ayomikuntemitope.araoye@gmail.com**
 
-- ⚡ Fun fact **I also love gaming**
+- ⚡ Fun fact **I also play vedio games when am not working**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
