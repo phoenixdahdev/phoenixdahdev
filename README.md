@@ -17,9 +17,7 @@
 
 <h2>Certifications and Recognition</h2>
 
-<img src="networking-basics.png" alt="Networking Basics Cisco Academy" style="height: 150px; margin-right: 20px;"> <img src="isc2-candidate.png" alt="ISC2 Candidate" style="height: 150px; margin-right: 20px"> <img src="network-support-and-security.png" alt="Network Suppport"  style="height: 150px;>
-
-
+<img src="networking-basics.png" alt="Networking Basics Cisco Academy" style="height: 150px; margin-right: 20px;"> <img src="isc2-candidate.png" alt="ISC2 Candidate" style="height: 150px; margin-right: 20px"> <img src="network-support-and-security.png" alt="Network support" style="height: 150px; margin-right: 20px">
 - 🌱 I’m currently learning **CCNA 201, ALX SE**
 
 - 💬 Ask me about **Networking, Software Development, and anything related to cyberscurity**
