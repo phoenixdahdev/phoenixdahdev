@@ -15,6 +15,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incredible-phoenix246" alt="incredible-phoenix246" /></a> </p>
 
+<h2>Certfications and Recognisations</h2>
+
+<img src="networking-basics.png" alt="nertworking basic cisco academy">
+<img src="isc2-candidate.png" alt="ISC2 candidate">
+
 - 🌱 I’m currently learning **CCNA 201, ALX SE**
 
 - 💬 Ask me about **Networking, Software Development, and anything related to cyberscurity**
