@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incredible-phoenix246" alt="incredible-phoenix246" /></a> </p>
 
-<h2>Certfications and Recognisations</h2>
+<h2>Certifications and Recognition</h2>
 
 <img src="networking-basics.png" alt="Networking Basics Cisco Academy" style="height: 150px;"> <img src="isc2-candidate.png" alt="ISC2 Candidate" style="height: 150px;">
 
