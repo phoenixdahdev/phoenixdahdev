@@ -17,7 +17,8 @@
 
 <h2>Certifications and Recognition</h2>
 
-<img src="networking-basics.png" alt="Networking Basics Cisco Academy" style="height: 150px;"> <img src="isc2-candidate.png" alt="ISC2 Candidate" style="height: 150px;">
+<img src="networking-basics.png" alt="Networking Basics Cisco Academy" style="height: 150px; margin-right: 20px;"> <img src="isc2-candidate.png" alt="ISC2 Candidate" style="height: 150px;">
+
 
 - 🌱 I’m currently learning **CCNA 201, ALX SE**
 
