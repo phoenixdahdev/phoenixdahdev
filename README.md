@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Phoenix</h1>
+<h1 align="center">Hi 👋, I'm Phoenix</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=incredible-phoenix246&label=Profile%20views&color=0e75b6&style=flat" alt="incredible-phoenix246" /> </p>
 <p>🌐 A passionate web developer, cybersecurity enthusiast, and networking aficionado with a burning desire to innovate and secure the digital landscape.
@@ -12,8 +12,11 @@
 🚀 When I'm not engrossed in code or architecting secure systems, you might find me diving into the latest technology trends, distilling insights on my tech blog, or actively contributing to open-source projects that resonate with my passions. Collaborative innovation is where true magic happens.
 
 🔗 I'm always eager to connect and collaborate! Feel free to explore my repositories, where you'll find a mix of personal projects, cybersecurity endeavors, and perhaps a few whimsical coding experiments. Don't hesitate to reach out—I'm enthusiastic about exploring possibilities, sharing knowledge, and collectively elevating the digital realm.</p>
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incredible-phoenix246" alt="incredible-phoenix246" /></a> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incredible-phoenix246" alt="incredible-phoenix246" /></a> </p>
+[[](https://github-profile-trophy.vercel.app/?username=incredible-phoenix246&theme=onedark)](https://github.com/incredible-phoenix246/github-profile-trophy)
+
 
 <h2>Certifications and Recognition</h2>
 
@@ -27,7 +30,7 @@
 
 - ⚡ Fun fact **I also play vedio games when am not working**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/phoeniex246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phoeniex246" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayomikun-araoye-a2485b287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayomikun-araoye-a2485b287" height="30" width="40" /></a>
@@ -112,3 +115,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=incredible-phoenix246&show_icons=true&locale=en" alt="incredible-phoenix246" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=incredible-phoenix246&" alt="incredible-phoenix246" /></p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=incredible-phoenix246&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=incredible-phoenix246&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=incredible-phoenix246&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=incredible-phoenix246&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=incredible-phoenix246&theme=dracula)
+
+
