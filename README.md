@@ -12,9 +12,8 @@
 🚀 When I'm not engrossed in code or architecting secure systems, you might find me diving into the latest technology trends, distilling insights on my tech blog, or actively contributing to open-source projects that resonate with my passions. Collaborative innovation is where true magic happens.
 
 🔗 I'm always eager to connect and collaborate! Feel free to explore my repositories, where you'll find a mix of personal projects, cybersecurity endeavors, and perhaps a few whimsical coding experiments. Don't hesitate to reach out—I'm enthusiastic about exploring possibilities, sharing knowledge, and collectively elevating the digital realm.</p>
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incredible-phoenix246" alt="incredible-phoenix246" /></a> </p> -->
 
+<h3 align="left">My Tropies</h3>
 [![trophy](https://github-profile-trophy.vercel.app/?username=incredible-phoenix246&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -30,7 +29,7 @@
 
 - ⚡ Fun fact **I also play vedio games when am not working**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/phoeniex246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phoeniex246" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayomikun-araoye-a2485b287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayomikun-araoye-a2485b287" height="30" width="40" /></a>
