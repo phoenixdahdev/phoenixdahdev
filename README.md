@@ -14,6 +14,9 @@
 🔗 I'm always eager to connect and collaborate! Feel free to explore my repositories, where you'll find a mix of personal projects, cybersecurity endeavors, and perhaps a few whimsical coding experiments. Don't hesitate to reach out—I'm enthusiastic about exploring possibilities, sharing knowledge, and collectively elevating the digital realm.</p>
 
 <h3 align="left">My Tropies</h3>
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incredible-phoenix246" alt="incredible-phoenix246" /></a> </p> -->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=incredible-phoenix246&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
