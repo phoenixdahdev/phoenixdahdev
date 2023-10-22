@@ -114,7 +114,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=incredible-phoenix246&show_icons=true&locale=en" alt="incredible-phoenix246" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=incredible-phoenix246&" alt="incredible-phoenix246" /></p>
+<a href="http://www.github.com/incredible-phoenix246"><img src="https://github-readme-streak-stats.herokuapp.com/?user=incredible-phoenix246&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=incredible-phoenix246&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=incredible-phoenix246&theme=dracula)
