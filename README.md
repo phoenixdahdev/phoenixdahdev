@@ -112,7 +112,7 @@
 <br>
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=incredible-phoenix246&show_icons=true&locale=en&layout=compact" alt="incredible-phoenix246" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=incredible-phoenix246&show_icons=true&locale=en" alt="incredible-phoenix246" /></p>
+<a href="http://www.github.com/incredible-phoenix246"><img src="https://github-readme-stats.vercel.app/api?username=incredible-phoenix246&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="incredible-phoenix246's GitHub stats" /></a>
 
 <a href="http://www.github.com/incredible-phoenix246"><img src="https://github-readme-streak-stats.herokuapp.com/?user=incredible-phoenix246&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
