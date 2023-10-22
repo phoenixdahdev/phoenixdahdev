@@ -111,6 +111,8 @@
 </p>
 <br>
 
+<h3 align="left">My Git Stats</h3>
+
 
 <a href="http://www.github.com/incredible-phoenix246"><img src="https://github-readme-stats.vercel.app/api?username=incredible-phoenix246&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="incredible-phoenix246's GitHub stats" /></a>
 
