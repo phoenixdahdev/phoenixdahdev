@@ -15,7 +15,7 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incredible-phoenix246" alt="incredible-phoenix246" /></a> </p> -->
 
-[[](https://github-profile-trophy.vercel.app/?username=incredible-phoenix246&theme=onedark)](https://github.com/incredible-phoenix246/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=incredible-phoenix246&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h2>Certifications and Recognition</h2>
@@ -120,6 +120,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=incredible-phoenix246&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=incredible-phoenix246&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=incredible-phoenix246&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=incredible-phoenix246&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=incredible-phoenix246/&theme=dracula)
 
 
