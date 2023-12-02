@@ -122,7 +122,6 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=incredible-phoenix246&theme=onedark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=incredible-phoenix246&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=incredible-phoenix246&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=incredible-phoenix246&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=incredible-phoenix246&theme=dracula)
