@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phoenix</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=incredible-phoenix246&label=Profile%20views&color=0e75b6&style=flat" alt="incredible-phoenix246" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixdahdev&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixdahdev" /> </p>
 <p>🌐 A passionate web developer, cybersecurity enthusiast, and networking aficionado with a burning desire to innovate and secure the digital landscape.
 
 🔒 With a keen interest in cybersecurity, I'm always on the hunt for novel ways to fortify the digital world against evolving threats. I believe that every line of secure code and every well-architected system contributes to a safer online environment for all.
@@ -16,7 +16,7 @@
 <h3 align="left">My Tropies</h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=incredible-phoenix246&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=phoenixdahdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h2>Certifications and Recognition</h2>
@@ -106,16 +106,16 @@
 <h3 align="left">My Git Stats</h3>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=incredible-phoenix246&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixdahdev&show_icons=true&theme=onedark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=incredible-phoenix246&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phoenixdahdev&theme=onedark)](https://git.io/streak-stats)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=incredible-phoenix246&theme=onedark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=incredible-phoenix246&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=incredible-phoenix246&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=incredible-phoenix246&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=incredible-phoenix246/&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=incredible-phoenix246&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixdahdev&theme=onedark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phoenixdahdev&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phoenixdahdev&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phoenixdahdev&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phoenixdahdev/&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phoenixdahdev&theme=dracula)
 
