@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phoenix</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixdahdev&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixdahdev" /> </p>
 <p>🌐 A passionate web developer, cybersecurity enthusiast, and networking aficionado with a burning desire to innovate and secure the digital landscape.
 
 🔒 With a keen interest in cybersecurity, I'm always on the hunt for novel ways to fortify the digital world against evolving threats. I believe that every line of secure code and every well-architected system contributes to a safer online environment for all.
