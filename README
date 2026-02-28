@@ -23,6 +23,16 @@ Skills & Tools
 -----------------
 Featured Projects
 
+● Ellum AI
+  ✦ SaaS platform using AI agents to automate content creation, social media
+    management, and marketing workflows for businesses.
+  ✦ Links: https://ellum.ai
+
+● DeepEllum AI
+  ✦ Platform to find, use, and deploy AI agents for automating workflows across
+    marketing, sales, and operations through MCP-compatible integrations.
+  ✦ Links: https://deepellum.ai
+
 ● HackHyre
   ✦ AI-powered hiring platform that connects job seekers with companies
     by analyzing compatibility across 50+ dimensions.
@@ -43,15 +53,18 @@ Featured Projects
     localized online courses, credentials, and certifications.
   ✦ Links: https://kemuko.org
 
-● DeepEllum AI
-  ✦ Platform to find, use, and deploy AI agents for automating workflows across
-    marketing, sales, and operations through MCP-compatible integrations.
-  ✦ Links: https://deepellum.ai
+● Ticketeur
+  ✦ Comprehensive platform for buying tickets, organizing events, and discovering
+    local happenings in one integrated application.
+  ✦ Links: https://www.useticketeur.com
 
-● Ellum AI
-  ✦ SaaS platform using AI agents to automate content creation, social media
-    management, and marketing workflows for businesses.
-  ✦ Links: https://ellum.ai
+-----------------------
+Open Source Contributions
+
+● OutRay
+  ✦ A tool that exposes your local server to the internet, making locally-hosted
+    applications accessible remotely.
+  ✦ Links: https://outray.dev
 
 --------------------------
 Thanks for stopping by! :)
